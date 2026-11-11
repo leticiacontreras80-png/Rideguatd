@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RideGuard</string>
+    <string name="tagline">A Better, Safer Ride</string>
+    <string name="panic_button">PANIC SOS</string>
+    <string name="stealth_sos">Discreet SOS</string>
+    <string name="emergency_siren">Emergency Siren</string>
+    <string name="fake_call">Fake Inbound Call</string>
+    <string name="record_audio">Record Evidence</string>
+    <string name="share_live_ride">Share Live Ride</string>
+    <string name="speedometer_label">Speed</string>
+    <string name="telemetry_title">Live Vehicle Telemetry</string>
+    <string name="erratic_driving_detected">Erratic Driving Detected!</string>
+    <string name="driving_normal">Smooth &amp; Safe Driving</string>
+    <string name="driving_cautious">Moderate Sway Detected</string>
+    <string name="driving_hazardous">High G-Force / Harsh Braking!</string>
+    <string name="trusted_contacts_title">Trusted Safety Contacts</string>
+    <string name="add_contact">Add Trusted Contact</string>
+    <string name="ride_details">Current Ride Info</string>
+    <string name="safety_timer">Check-In Safety Timer</string>
+    <string name="incident_logs">Safety &amp; Telemetry Log</string>
+</resources>
